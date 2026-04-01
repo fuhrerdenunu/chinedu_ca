@@ -27,10 +27,6 @@ defaults:
 markdown: kramdown
 permalink: /blog/:title/
 
-header_pages:
-  - about.markdown
-  - photos.md
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
